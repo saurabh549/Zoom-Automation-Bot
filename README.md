@@ -9,7 +9,7 @@ This python script signs into your zoom meetings / classes on time **automatical
 
 * Clone the GitHub repo
 ```
-git clone https://github.com/Anish-Malla/Zoom-Automation-Python
+git clone https://github.com/saurabh549/Zoom-Automation-Bot
 ```
 * cd into the directory
 * Install required libraries
